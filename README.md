@@ -5,7 +5,7 @@
 * HTML
 * CSS
 * JavaScript
-* Json server
+
 
 # Tools
 * VS Code
